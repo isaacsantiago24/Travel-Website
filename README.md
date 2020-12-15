@@ -1,1 +1,1 @@
-# TRIP TRAVEL | TRAVEL AGENCY | HTML & CSS | WITH FORMSPREE FORM SUBMISSION | https://isaacsantiago24.github.io/travel-plan
+TRIP TRAVEL | Travel Agency | HTML & CSS| https://isaacsantiago24.github.io/trip-travel
